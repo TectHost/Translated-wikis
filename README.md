@@ -3,3 +3,6 @@ Traducciones hechas por Tect.host a español de muchas wikis de plugins de Minec
 
 ### CommandPanels
 [Wiki](https://commandpanels.tect.host)
+
+### DeluxeMenus
+[Wiki](https://deluxemenus.tect.host)
